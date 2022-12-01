@@ -1,0 +1,11 @@
+body{
+    background-image:url("dark.webp");
+    color:#ffffff
+}
+Pro{
+    color:blueviolet
+}
+.end, .quote {
+    font-family: Impact sans-serif;
+    color:hsl(152, 35%, 57%);
+}
